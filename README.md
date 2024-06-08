@@ -4,7 +4,7 @@
 ![](https://github.com/GautamGupta17/GautamGupta17/blob/main/banner.png)
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi!%20I%20am%Aryan&fontSize=60&fontAlign=50&fontAlignY=40&color=050927&fontColor=c0e4e4)
 
-<div align="center">
+<div>
 
 ### Hi there, I'm Aryan 🏊
 🔭 I’m an Full-stack Developer & a Data Science Enthusiast<br>
