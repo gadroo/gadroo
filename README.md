@@ -74,12 +74,6 @@ I am currently pursuing a B.Tech degree in Computer Science. As a passionate ful
 
 <br>
 
-
-
-## Libraries:
-<p align="center">
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,django,mysql,opencv,r,selenium,fastapi,flask,git,github,graphql,html,css,jquery,latex,matlab,mongodb&perline=7)](https://skillicons.dev)
-<br>
 <br>
 
 ### FrameWorks
