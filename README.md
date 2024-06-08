@@ -1,42 +1,21 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Break+your+limits)" alt="Typing SVG" />
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Break+your+limits" alt="Typing SVG" />
 </h1>
 
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZnZnllenJwOGtxdXJkMWN0aWlzYnlrMnM5Y2UyNTNtOXcxdWltdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp" alt="Coder GIF" width="420" height="330">
 
 <div align="center">
 
-### About Me
+### Hi there, I'm Aryan 🏊
+🔭 I’m an Full-stack Developer & a Data Science Enthusiast<br>
+🎯 I’m currently working on developing wesites<br>
+🌱 I’m currently learning DevOps <br>
+⚡**Portfolio website: [Link](https://bhanmrinal-github-io.vercel.app/)**
 
-Hi, my name is Aryan Gadroo!. I’m an Full-stack Developer & a Data Science Enthusiast.
-I have extensive experience in a wide range of technologies and tools. My enthusiasm for web development, data science, and AI drives me to continually learn and grow in these dynamic fields.
-
-### Tech Stack
-
-- **Programming Languages & Frameworks:**
-  - Python 
-  - C++
-  - Java
-  - JavaScript (React.js, three.js)
-- **Data Science & AI:**
-  - Natural Language Processing (NLP)
-  - Deep Learning
-  - Data Analysis
-  - Data Visualization (Tableau)
-- **Databases:**
-  - SQL
-- **Cloud Services:**
-  - AWS
-- **Other Technologies:**
-  - DevOps (currently exploring)
-
-### Passion & Goals
-
-I am deeply passionate about the potential for data science and AI to transform industries and improve our world. My dedication to this field is reflected in my ongoing pursuit of knowledge and practical skills. I am particularly enthusiastic about roles in data analysis and data science, where I can apply my expertise to solve real-world problems and uncover valuable insights.
-
-### Let's Connect!
-
-Thank you for visiting my profile! I am always eager to connect with others, discuss new projects, and explore collaborative opportunities. Please don't hesitate to reach out if you have any questions or projects you'd like to discuss.
-
+💻 ***Things I love***
+- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- AI & ML🧐
+- Data Science 😬
+- Backend Development ✍️
 
 ![](https://komarev.com/ghpvc/?username=gadroo)
 ## ✉️ Find me on:
