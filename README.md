@@ -86,14 +86,13 @@ I am currently pursuing a B.Tech degree in Computer Science. As a passionate ful
 
 <br />
 
-## My GitHub and LeetCode Stats
+## My LeetCode Stats
 <br />
 
 <p float="left">
  <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kyom&show_icons=true&theme=tokyonight) 
  ![image](https://leetcard.jacoblin.cool/kyom?theme=dark&font=Nova%20Flat) -->
 
- <img src="https://github-readme-stats-lzzgs.vercel.app/api?username=kyom&show_icons=true&theme=tokyonight" />
 
  <img src="https://leetcard.jacoblin.cool/kyom?theme=dark&font=Nova%20Flat" />
 </p>
