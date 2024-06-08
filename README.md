@@ -31,7 +31,7 @@
 </h3>
 <br>
 
-<img width="137" alt="Frame 22" src="https://cdn.sanity.io/images/599r6htc/regionalized/2d98f37b14bfabde217cd89b38dd0b3481c5ef7f-1108x1108.png">
+<img width="137" alt="Frame 22" src="[https://cdn.sanity.io/images/599r6htc/regionalized/2d98f37b14bfabde217cd89b38dd0b3481c5ef7f-1108x1108.png](https://zenprospect-production.s3.amazonaws.com/uploads/pictures/6621555d8d949e00076e02c0/picture)">
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,django,mysql,opencv,r,selenium,fastapi,flask,git,github,graphql,html,css,jquery,latex,matlab,mongodb&perline=7)](https://skillicons.dev)
