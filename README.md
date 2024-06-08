@@ -1,14 +1,15 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Break+your+limits" alt="Typing SVG" />
 </h1>
 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZnZnllenJwOGtxdXJkMWN0aWlzYnlrMnM5Y2UyNTNtOXcxdWltdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp" alt="Coder GIF" width="420" height="330">
+![](https://github.com/GautamGupta17/GautamGupta17/blob/main/banner.png)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi!%20I%20am%Aryan&fontSize=60&fontAlign=50&fontAlignY=40&color=050927&fontColor=c0e4e4)
 
 <div align="center">
 
 ### Hi there, I'm Aryan 🏊
 🔭 I’m an Full-stack Developer & a Data Science Enthusiast<br>
-🎯 I’m currently working on developing wesites<br>
-🌱 I’m currently learning DevOps <br>
+🎯 I’m currently working on Extending context windows in LLMs like TinyLlama<br>
+🌱 I’m currently learning to implement RAG in LLMs <br>
 ⚡**Portfolio website: [Link](https://bhanmrinal-github-io.vercel.app/)**
 
 💻 ***Things I love***
@@ -66,6 +67,12 @@
 
 <br>
 
+
+
+## Frameworks/ Libraries:
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,django,mysql,opencv,r,selenium,fastapi,flask,git,github,graphql,html,css,jquery,latex,matlab,mongodb&perline=7)](https://skillicons.dev)
+<br>
+<br>
 
 ### FrameWorks
 [![My Skills](https://skillicons.dev/icons?i=anaconda,aws,azure,firebase,gcp,linux,notion,obsidian,ps,ai,powershell,sklearn,tensorflow,vscode&perline=7)](https://skillicons.dev)
