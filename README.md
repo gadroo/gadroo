@@ -67,12 +67,6 @@
 <br>
 
 
-
-## Frameworks/ Libraries:
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,django,mysql,opencv,r,selenium,fastapi,flask,git,github,graphql,html,css,jquery,latex,matlab,mongodb&perline=7)](https://skillicons.dev)
-<br>
-<br>
-
 ### FrameWorks
 [![My Skills](https://skillicons.dev/icons?i=anaconda,aws,azure,firebase,gcp,linux,notion,obsidian,ps,ai,powershell,sklearn,tensorflow,vscode&perline=7)](https://skillicons.dev)
 
