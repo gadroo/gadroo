@@ -32,7 +32,7 @@
 </h3>
 <br>
 
-<img width="137" alt="Frame 22" src="src="https://s3-ap-south-1.amazonaws.com/trt-blog-ghost/2023/01/Technology-Stack.jpg">
+<img width="137" alt="Frame 22" src="https://s3-ap-south-1.amazonaws.com/trt-blog-ghost/2023/01/Technology-Stack.jpg">
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,django,mysql,opencv,r,selenium,fastapi,flask,git,github,graphql,html,css,jquery,latex,matlab,mongodb&perline=7)](https://skillicons.dev)
