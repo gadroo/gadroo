@@ -2,21 +2,28 @@
 </h1>
 
 ![](https://github.com/GautamGupta17/GautamGupta17/blob/main/banner.png)
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi!%20I%20am%Aryan&fontSize=60&fontAlign=50&fontAlignY=40&color=050927&fontColor=c0e4e4)
 
 <div>
 
 ### Hi there, I'm Aryan 🏊
-🔭 I’m an Full-stack Developer & a Data Science Enthusiast<br>
-🎯 I’m currently working on Extending context windows in LLMs like TinyLlama<br>
-🌱 I’m currently learning to implement RAG in LLMs <br>
-⚡**Portfolio website: [Link](https://bhanmrinal-github-io.vercel.app/)**
+I am currently pursuing a B.Tech degree in Computer Science. As a passionate full-stack web developer, I have extensive experience in various technologies and tools. My enthusiasm for web development, data science, and AI continually drives me to learn and grow in these dynamic fields.
 
 💻 ***Things I love***
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- AI & ML🧐
-- Data Science 😬
-- Backend Development ✍️
+- **Programming Languages & Frameworks:**
+  - Python (Django)
+  - Tkinter
+  - JavaScript (React.js, three.js)
+- **Data Science & AI:**
+  - Natural Language Processing (NLP)
+  - Deep Learning
+  - Data Analysis
+  - Data Visualization (Tableau)
+- **Databases:**
+  - SQL
+- **Cloud Services:**
+  - AWS
+- **Other Technologies:**
+  - DevOps (currently exploring)
 
 ![](https://komarev.com/ghpvc/?username=gadroo)
 ## ✉️ Find me on:
@@ -69,7 +76,7 @@
 
 
 
-## Frameworks/ Libraries:
+##Libraries:
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,django,mysql,opencv,r,selenium,fastapi,flask,git,github,graphql,html,css,jquery,latex,matlab,mongodb&perline=7)](https://skillicons.dev)
 <br>
 <br>
@@ -86,7 +93,7 @@
  <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kyom&show_icons=true&theme=tokyonight) 
  ![image](https://leetcard.jacoblin.cool/kyom?theme=dark&font=Nova%20Flat) -->
 
- <!-- <img src="https://github-readme-stats-lzzgs.vercel.app/api?username=kyom&show_icons=true&theme=tokyonight" /> -->
+ <img src="https://github-readme-stats-lzzgs.vercel.app/api?username=kyom&show_icons=true&theme=tokyonight" />
 
  <img src="https://leetcard.jacoblin.cool/kyom?theme=dark&font=Nova%20Flat" />
 </p>
