@@ -43,3 +43,15 @@
 [![My Skills](https://skillicons.dev/icons?i=anaconda,aws,azure,firebase,gcp,linux,notion,obsidian,ps,ai,powershell,sklearn,tensorflow,vscode&perline=7)](https://skillicons.dev)
 
 <br>
+
+## My GitHub and LeetCode Stats
+<br />
+
+<p float="left">
+ <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GautamGupta17&show_icons=true&theme=tokyonight) 
+ ![image](https://leetcode-stats-api.herokuapp.com/WhyGautam17/theme=dark) -->
+
+ <!-- <img src="https://github-readme-stats-lzzgs.vercel.app/api?username=GautamGupta17&show_icons=true&theme=tokyonight" /> -->
+
+ <img src="https://leetcard.jacoblin.cool/kyom?theme=dark" />
+</p>
