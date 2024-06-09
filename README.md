@@ -44,7 +44,7 @@
 
 <br>
 
-## My GitHub and LeetCode Stats
+## My LeetCode Stats
 <br />
 
 <p float="left">
