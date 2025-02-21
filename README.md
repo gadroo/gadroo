@@ -8,7 +8,7 @@
 
 ### Hi there, I'm Aryan 👋
 🎓 4th year CSE @IIITNR<br>
-🔭 I’m an Full-stack Developer & a Data Science Enthusiast<br>
+🔭 I’m an AI Developer & a Data Science Enthusiast<br>
 🎯 I’m working on developing websites<br>
 🌱 I’m currently learning DevOps <br>
 
