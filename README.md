@@ -35,7 +35,7 @@
 <img width="137" alt="Frame 22" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/96fc909c-2e49-4d81-8f7e-b46471d60e53">
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,mysql,opencv,fastapi,html,css,latex,matlab=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,mysql,html,css,latex,matlab=7)](https://skillicons.dev)
 <br>
 <br>
 
