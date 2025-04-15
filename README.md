@@ -40,7 +40,7 @@
 <br>
 
 ### FrameWorks
-[![My Skills](https://skillicons.dev/icons?i=anaconda,aws,azure,firebase,gcp,linux,notion,obsidian,ps,ai,powershell,sklearn,tensorflow,vscode&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,aws,ai,tensorflow,vscode&perline=7)](https://skillicons.dev)
 
 <br>
 
