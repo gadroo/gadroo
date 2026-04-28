@@ -4,8 +4,6 @@
 ![](https://github.com/GautamGupta17/GautamGupta17/blob/main/banner.png)
 
 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenMxcHhoc2cxdmYyZTc2ZnFoYnUyNG9uZGY1cGR2Z2p2bGhqdHgycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" alt="Coder GIF" width="420" height="330">
-
 ### Hi there, I'm Aryan 👋
 I am vibe maxxing on Typescript
 
